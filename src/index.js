@@ -5,7 +5,7 @@ import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { TextureLoader } from 'three';
 
 /* start of must have oczywiscie import three to podstawa*/
-
+console.log('papi hi');
 window.Webflow ||= [];
 window.Webflow.push(() => {
   console.log('hello');
